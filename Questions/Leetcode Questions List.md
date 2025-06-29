@@ -1,0 +1,8 @@
+- [ ] 
+- [x] [[51. N-Queens]]
+- [x] [[1825. Finding MK Average]]
+- [ ] [[3149. Find the Minimum Cost Array Permutation]]
+- [x] [[269. Alien Dictionary]]
+- [ ] [[25. Reverse Nodes in k-Group]]
+- [ ] [[560. Subarray Sum Equals K]]
+- [ ] 
